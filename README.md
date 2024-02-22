@@ -34,7 +34,7 @@ A big shout-out to the YouTube video that guided me through this project! Check 
 
 ## Stage 2B - Populate Demo Value Template
 
-11. Populate the DemoValueTemplate using the provided instructions.
+11. Populate the DemoValueTemplate using the provided instructions from the txt files.
 
 ## Stage 3A - Configure IPsec Tunnels for ONPREMISES-ROUTER1
 
