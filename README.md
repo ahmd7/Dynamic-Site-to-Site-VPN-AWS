@@ -68,8 +68,8 @@ A big shout-out to the YouTube video that guided me through this project! Check 
 
 ## Stage 5 - Cleanup
 
-23. Delete the on-premises stack, VPN connections, and customer gateways. Wait for connections to be removed.
+23. Delete VPN connections, and customer gateways. Wait for connections to be removed.
 
-24. Delete the ONPREM stack and AWS stack.
+24. Delete the stack.
 
 **Note:** Ensure thorough understanding of the steps and review the provided configuration files before executing.
